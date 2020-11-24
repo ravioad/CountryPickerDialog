@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomCountryPicker</string>
+    <string name="done_button_text">Done</string>
+    <string name="search">Search</string>
+</resources>
